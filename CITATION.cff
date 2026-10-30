@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "AgroPrecisiónIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Ortiz Tirado"
+    given-names: "Paúl Santiago"
+    affiliation: "Universidad Politécnica Estatal del Carchi (UPEC), Ecuador"
+    orcid: "https://orcid.org/0000-0001-5004-1466"
+doi: "10.5281/zenodo.23801221"
+version: "1.0.0"
+date-released: "2026-10-30"
+url: "https://fborrasumh.github.io/agroprecisionia/"
+repository-code: "https://github.com/fborrasumh/agroprecisionia"
+license: MIT
